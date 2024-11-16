@@ -4,40 +4,25 @@ title                    : "Said Moussadeq - Data Science Portfolio"
 title_separator          : "-"
 name                     : &name "Said Moussadeq"
 description              : &description "A collection of my data science projects showcasing skills in machine learning, NLP, data visualization, and more"
-url                      : https://academicpages.github.io
+url                      : https://github.com/thearchitect1212/thearchitect1212.github.io
 baseurl                  : ""
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/thearchitect1212/thearchitect1212.github.io"
 
 # Author Information
 author:
   avatar           : "profile.png"
   name             : "Said Moussadeq"
-  pronouns         : "he/him"
   bio              : "Software Engineer | Cybersecurity Specialist | Data Scientist passionate about solving real-world problems through data-driven solutions."
   location         : "Davenport, Florida"
   employer         : "Bellevue University (MS in Data Science)"
   email            : "saidmsdq05@gmail.com"
 
-  # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=said+moussadeq"
 
   # Repositories and social media
   github           : "saidmsdq"
-  linkedin         : "linkedinusername"
-  kaggle           : "kaggleusername"
-  twitter          : "twitterhandle"
-  bluesky          : "bsky.app"
+  linkedin         : "https://www.linkedin.com/notifications/?filter=all"
+  kaggle           : "https://www.kaggle.com/thearchitect12"
 
-# Publication Categories
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
 
 # Site Settings
 teaser                   : "teaser.png"
